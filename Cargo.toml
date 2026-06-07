@@ -1,0 +1,9 @@
+[package]
+name = "graph-homology"
+version = "0.1.0"
+edition = "2021"
+description = "Homology of graph networks: clique complexes, graph Laplacians, and Euler characteristics"
+license = "MIT"
+repository = "https://github.com/SuperInstance/graph-homology"
+
+[dependencies]
